@@ -26,7 +26,7 @@ O Jogo da Forca é um projeto desenvolvido como parte do curso de Ciência de Da
 
 
 
-`<img width="1536" height="1024" alt="d74c9d5a-4cca-48b3-9804-0a2f7689c0c5" src="https://github.com/user-attachments/assets/85b21a5f-839a-4d35-9a61-35b848e86a36" />`
+<img width="100" height="1000" alt="d74c9d5a-4cca-48b3-9804-0a2f7689c0c5" src="https://github.com/user-attachments/assets/85b21a5f-839a-4d35-9a61-35b848e86a36" />
 
 
 
