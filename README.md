@@ -28,7 +28,10 @@
 O Jogo da Forca é um projeto desenvolvido como parte do curso de Ciência de Dados e Machine Learning, na disciplina Desenvolvimento para Ciências de Dados I. A aplicação foi construída em Python utilizando Tkinter, trazendo uma interface moderna em tons de lilás, rosa e azul para uma experiência visual agradável. Além da interface refinada, o projeto aplica princípios importantes da área, como modularização, organização de código e separação entre lógica e apresentação. O resultado é um jogo interativo, intuitivo e funcional, que demonstra habilidades essenciais para o desenvolvimento de aplicações dentro do ecossistema de ciência de dados.
 
 
-<img width="200" height="200" alt="d74c9d5a-4cca-48b3-9804-0a2f7689c0c5" src="https://github.com/user-attachments/assets/a8971969-444b-42de-a332-7b69ced56924" />
+
+
+`<img width="1536" height="1024" alt="d74c9d5a-4cca-48b3-9804-0a2f7689c0c5" src="https://github.com/user-attachments/assets/85b21a5f-839a-4d35-9a61-35b848e86a36" />`
+
 
 
 ## Funcionalidades
