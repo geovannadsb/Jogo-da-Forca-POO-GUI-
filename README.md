@@ -16,10 +16,6 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Acesso ao projeto](#acesso-ao-projeto)
-
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
 - [Desenvolvedores](#desenvolvedores)
 
 ## Descrição do projeto 
@@ -65,10 +61,6 @@ O Jogo da Forca é um projeto desenvolvido como parte do curso de Ciência de Da
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ###
-
-## Acesso ao projeto
-
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
