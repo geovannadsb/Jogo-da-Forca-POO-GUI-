@@ -45,12 +45,9 @@ O Jogo da Forca é um projeto desenvolvido como parte do curso de Ciência de Da
 
 
 ## Aplicação
-
-<div align="center">
-
-![Android Emulator](https://user-images.githubusercontent.com/37356058/135944390-ec96d4ec-ee43-4db9-882f-89be66aad23a.gif)
-
   </div>
+
+![Design sem nome (1)](https://github.com/user-attachments/assets/9d395072-6b9a-4e62-855a-f91b71971b47)
 
 ###
 
